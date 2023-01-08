@@ -16,7 +16,7 @@
 - 基于哈希表记录局面信息并实时更新各局面向量的评分，实现更快的局面分计算
   - 此处哈希表使用的是`uthash`，附上github地址：[troydhanson/uthash: C macros for hash tables and more (github.com)](https://github.com/troydhanson/uthash)
 - αβ剪枝
-- PVE搜索
+- PVS主要变例搜索
 - 散列表&zobrist散列
 - 迭代加深
 - 基于历史表的启发式搜索
